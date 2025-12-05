@@ -6,7 +6,10 @@
     - sleeping
 - name: Nick
   location: London
-  likes: null
+  likes:
+    - Christmas
+    - DIY
+    - Lemsip
 - name: Ciaran
   location: London
   likes: 
