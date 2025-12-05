@@ -6,7 +6,10 @@
   likes: null
 - name: Ciaran
   location: London
-  likes: null
+  likes: 
+    - F1
+    - Football
+    - Music
 - name: Alessia
   location: London
   likes: null
