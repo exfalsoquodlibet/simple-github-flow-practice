@@ -19,4 +19,7 @@
     - Music
 - name: Alessia
   location: Hackney
-  likes: null
+  likes:
+    - Gym
+    - Travel
+    - Cycling
